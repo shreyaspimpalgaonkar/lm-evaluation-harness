@@ -1,3 +1,5 @@
+repeats:
+  32
 group:
   - math_word_problems
 task: math_algebra
